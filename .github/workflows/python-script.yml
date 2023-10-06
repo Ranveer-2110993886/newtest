@@ -20,4 +20,4 @@ jobs:
 
       - name: Run Python Script
         run: |
-          python my_script.py  # Replace with the correct script name
+          python server.py
